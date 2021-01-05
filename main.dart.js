@@ -37118,7 +37118,7 @@ return P.G(null,r)}})
 return P.H($async$Aj,r)},
 m4:function(){var s=0,r=P.I(t.Ts),q,p=this,o,n
 var $async$m4=P.v(function(a,b){if(a===1)return P.F(b,r)
-while(true)switch(s){case 0:n=H.b([],t.i)
+while(true)switch(s){case 0:n=H.b(["email"],t.i)
 n=new K.Y5(n,new P.bS(null,null,t.wD))
 p.c=n
 s=4
@@ -39055,7 +39055,7 @@ case 1:return P.G(q,r)}})
 return P.H($async$$0,r)},
 $S:26}
 U.JP.prototype={
-F:function(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="assets/images/SorteoForocoches.jpg",a=4278851645,a0=new N.bG(c,t.Jv),a1=D.kl(c),a2=t.w
+F:function(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="assets/images/sorteoForocoches.jpg",a=4278851645,a0=new N.bG(c,t.Jv),a1=D.kl(c),a2=t.w
 switch(Q.mA(a4.u(a2).f.a)){case C.bF:s=!1
 r=!1
 break
