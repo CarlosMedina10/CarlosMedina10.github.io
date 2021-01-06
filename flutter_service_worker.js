@@ -3,20 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "babe032cf349c7f695fac17e0e3ca6ce",
+  "assets/AssetManifest.json": "9e444d5c87af61aa41a44a6a927d9819",
 "assets/assets/fonts/Cookie-Regular.ttf": "1a26c990eb18bc85f1fe12a3416d57cf",
-"assets/assets/images/1-min.jpg": "082e6d5cb62fd8b90f69bea70eec8c53",
 "assets/assets/images/1.png": "7ef9029b8999366033fbf76fcb8f6380",
-"assets/assets/images/2-min.jpg": "5101cd086013f719984e32e522042922",
 "assets/assets/images/2.png": "f73db5a6ab3aea8ad6331fca71088a32",
-"assets/assets/images/3-min.jpg": "3a2cf7d97d489924db29700f3dfc279a",
 "assets/assets/images/3.png": "46c19ba5fa3d35ccd30b727109aef9fb",
-"assets/assets/images/4-min.jpg": "2aa6016532ff6b14601a070adc700a25",
 "assets/assets/images/4.png": "d0d392227998520aa823db10d6c5e3af",
-"assets/assets/images/5-min.jpg": "febc7ecc434441008592c64ba86d756d",
-"assets/assets/images/6-min.jpg": "453da3800ca36fcc5c6801e19d29eacf",
-"assets/assets/images/7-min.jpg": "9529daa90715a3f801ad61dbfbf0ac1a",
-"assets/assets/images/8-min.jpg": "de9d41cb249973f516e531633e660523",
 "assets/assets/images/B99A0068.jpg": "101138e8b5251b38e08dd7fbb66f3f16",
 "assets/assets/images/Conocenos.jpg": "6872520fc36026b0a676416882ffb1f0",
 "assets/assets/images/Conocenos2.jpg": "79d4105b025ea95d3e42b30b280d831b",
@@ -26,15 +18,6 @@ const RESOURCES = {
 "assets/assets/images/ImagenApp.jpg": "1c77ddffe5b6e4063a24120100eb9060",
 "assets/assets/images/LogoEntrenaAppFondoNegro.png": "059b5490b22e917f92417aa53b9afbde",
 "assets/assets/images/MostMuscular.jpg": "51246c242dfa77ebb6babb7fa7cf10cb",
-"assets/assets/images/R1.PNG": "f1b40ce734c9ecef39589c7167df9a4e",
-"assets/assets/images/R2.PNG": "adbd113877c227f5db68d99d279e5abb",
-"assets/assets/images/R3.PNG": "ed9050940351291ee220e880a0a092e1",
-"assets/assets/images/R4.PNG": "43ac7248f032c121f395c074421435c1",
-"assets/assets/images/R5.PNG": "50594d3c452777dca3fd13f36a2576aa",
-"assets/assets/images/R6.PNG": "a0c70d43b38ad9ff8057b1fb355cd2d5",
-"assets/assets/images/R7.PNG": "6663d4f4bebd774930008229308fae38",
-"assets/assets/images/R8.PNG": "066b290a483282300484536bee1ed937",
-"assets/assets/images/R9.PNG": "cb5f6c25bd3508c74d6083eddb737851",
 "assets/assets/images/sorteoForocoches.jpg": "e3f72a39e966693b62bec117935f11f0",
 "assets/FontManifest.json": "b4bf71d5c0024db6df34ba0934c54e07",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -64,11 +47,11 @@ const RESOURCES = {
 "favicon.ico": "37b27401b90127a4490716a9a7bdf96c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "ef9c88fb1566504e13422c0fc23c7b06",
-"/": "ef9c88fb1566504e13422c0fc23c7b06",
-"main.dart.js": "46d8acb94ca94f071aec99a38714d771",
+"index.html": "c7855e337c77c261b84441e4b63d9b35",
+"/": "c7855e337c77c261b84441e4b63d9b35",
+"main.dart.js": "e629d2cea74d3dc6bbbb3d76cdbed9fd",
 "manifest.json": "ebcf31622a95108114c7032090ad2ffb",
-"version.json": "2695096cda56db0258000844e1f00fb5"
+"version.json": "37fc8616f8aac3766d996a983fa11da6"
 };
 
 // The application shell files that are downloaded before a service worker can
