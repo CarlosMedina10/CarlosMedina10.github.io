@@ -3,15 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5c1d31fb14607b53db6800ddca4a2501",
+  "assets/AssetManifest.json": "943a2ced38643d7dedc8dac07ec88a81",
 "assets/assets/fonts/Cookie-Regular.ttf": "1a26c990eb18bc85f1fe12a3416d57cf",
 "assets/assets/images/3.png": "46c19ba5fa3d35ccd30b727109aef9fb",
 "assets/assets/images/4.png": "d0d392227998520aa823db10d6c5e3af",
 "assets/assets/images/B99A0068.jpg": "101138e8b5251b38e08dd7fbb66f3f16",
 "assets/assets/images/Conocenos.jpg": "6872520fc36026b0a676416882ffb1f0",
 "assets/assets/images/Conocenos2.jpg": "79d4105b025ea95d3e42b30b280d831b",
-"assets/assets/images/DisenoFondo.jpg": "a832cc24345558129f21faf220ac4cf7",
-"assets/assets/images/DisenoFondo2.jpg": "f2354de82628c4390724b2670acad01f",
+"assets/assets/images/Dise%25C3%25B1oFondo.png": "8bc61e02b8f2296be9903ae6d4680e5f",
+"assets/assets/images/DisenoFondo2.png": "0be990b248abf477aa35dc335ce5ef3b",
 "assets/assets/images/Fondo1.jpg": "7653ea421252bcd491dbcf69481f274a",
 "assets/assets/images/ImagenApp.jpg": "1c77ddffe5b6e4063a24120100eb9060",
 "assets/assets/images/LogoEntrenaAppFondoNegro.png": "059b5490b22e917f92417aa53b9afbde",
@@ -45,9 +45,9 @@ const RESOURCES = {
 "favicon.ico": "37b27401b90127a4490716a9a7bdf96c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "afcbbbbb9eb719b99d742c62b678735d",
-"/": "afcbbbbb9eb719b99d742c62b678735d",
-"main.dart.js": "fd04dcbccc47611207c198a1c5a09a9a",
+"index.html": "007915a5fe2f37843913104ffe87e7c0",
+"/": "007915a5fe2f37843913104ffe87e7c0",
+"main.dart.js": "f7c9a8a263a8b2bf58c05b604ebb5cf9",
 "manifest.json": "ebcf31622a95108114c7032090ad2ffb",
 "version.json": "37fc8616f8aac3766d996a983fa11da6"
 };
