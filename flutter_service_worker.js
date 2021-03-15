@@ -23,7 +23,7 @@ const RESOURCES = {
 "assets/assets/images/sorteoForocoches.jpg": "e3f72a39e966693b62bec117935f11f0",
 "assets/FontManifest.json": "b4bf71d5c0024db6df34ba0934c54e07",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "69c33c10d7479b6bcbe2a1ecc44b3f6e",
+"assets/NOTICES": "51dcf2e659806f44e0fd7931c45fa96b",
 "assets/packages/community_material_icon/fonts/materialdesignicons-webfont.ttf": "b0fd91bb29dcb296a9a37f8bda0a2d85",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_auth_buttons/fonts/Roboto-Medium.ttf": "d08840599e05db7345652d3d417574a9",
@@ -49,9 +49,9 @@ const RESOURCES = {
 "favicon.ico": "37b27401b90127a4490716a9a7bdf96c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "49f307d12d345d904f9f6a633a25e20b",
-"/": "49f307d12d345d904f9f6a633a25e20b",
-"main.dart.js": "a612259a73451989e2c2e34e815ed703",
+"index.html": "221def5ac7388d6f8722045d973f7bc7",
+"/": "221def5ac7388d6f8722045d973f7bc7",
+"main.dart.js": "37c45a2f6865d5584731bcd648434ccf",
 "manifest.json": "ebcf31622a95108114c7032090ad2ffb",
 "version.json": "37fc8616f8aac3766d996a983fa11da6"
 };
