@@ -11,6 +11,24 @@
     Fore more details:
     * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
   -->
+  <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '{your-pixel-id-goes-here}');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none" 
+       src="https://www.facebook.com/tr?id={your-pixel-id-goes-here}&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
   <base href="/">
   <meta name="google-signin-client_id" content="481858401004-8h6rdu9hud4ebc89bm7rvogaf7niq7e7.apps.googleusercontent.com">
   <meta charset="UTF-8">
@@ -86,7 +104,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2338998041');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=296419374');
       });
     }
   </script>
