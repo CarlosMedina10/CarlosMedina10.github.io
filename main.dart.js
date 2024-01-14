@@ -48487,7 +48487,7 @@ var $async$rR=A.u(function(a,b){if(a===1)return A.B(b,r)
 while(true)switch(s){case 0:A.bl("pulsa apple")
 o=A.fS("https://carlosmedina10.github.io")
 s=3
-return A.T(A.aKx(A.a([B.ii],t._Z),new A.ate("com.carlos10medina.entrenaApp",o)),$async$rR)
+return A.T(A.aKx(A.a([B.ii],t._Z),new A.ate("com.carlos10medina.entrenaappweb",o)),$async$rR)
 case 3:n=b
 A.bl(n)
 o=n.f
