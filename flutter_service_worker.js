@@ -26,7 +26,7 @@ const RESOURCES = {
 "assets/assets/resources/langs/es.json": "ed1476599f7efbc5e4ce623bd2f0bd88",
 "assets/FontManifest.json": "7815851ec51e433729b023fb53abac53",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "8d2da93b30bf27d60a6536c1ed3e5d4b",
+"assets/NOTICES": "4d989877a07cabe94ba086e1ff6be048",
 "assets/packages/auth_buttons/images/default/apple.svg": "55dba81be7ba24dd88dbf9cc81de95e8",
 "assets/packages/auth_buttons/images/default/email.svg": "3082146f3f124a005b10db6fe3109fe7",
 "assets/packages/auth_buttons/images/default/facebook.svg": "042d64dc3864e72dee8ed5a25b514b11",
@@ -99,9 +99,9 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1e8d67384a087d4120c00395e6ca3238",
-"/": "1e8d67384a087d4120c00395e6ca3238",
-"main.dart.js": "52f0c09be9b041f3584be7778d79fdf5",
+"index.html": "3ca6d5d18f3938a7591c877897a6a99c",
+"/": "3ca6d5d18f3938a7591c877897a6a99c",
+"main.dart.js": "e819b3013cc2e0622b76d77204665f7f",
 "manifest.json": "ebcf31622a95108114c7032090ad2ffb",
 "version.json": "86630990e42b1b1894327632b1c23b48"
 };
