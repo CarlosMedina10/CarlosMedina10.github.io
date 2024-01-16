@@ -1,0 +1,174 @@
+[
+   
+   
+
+    [{
+        "0": "Press banca es un ejercicio en el que trabajamos...",
+        "1": "Sentadilla es un ejercicio en el que trabajamos...",
+        "2": "Remo con barra es una ejercicio en el que trabajamos...",
+        "3": "Press frances es un ejercicio en el que trabajamos...",
+        "4": "Curl martillo es un ejercicio en el que trabajamos... ",
+        "5": "Press militar un ejercicio en el que trabajamos..."
+      
+    },
+    {
+        "0": {
+            "a": "pecho",
+            "b": "espalda",
+            "c": "pierna",
+            "d": "ns/nc"
+        },
+        "1": {
+            "a": "pecho",
+            "b": "espalda",
+            "c": "pierna",
+            "d": "ns/nc"
+        },
+        "2": {
+            "a": "pecho",
+            "b": "espalda",
+            "c": "pierna",
+            "d": "ns/nc"
+        },
+        "3": {
+            "a": "bíceps",
+            "b": "tríceps",
+            "c": "pecho",
+            "d": "ns/nc"
+        },
+        "4": {
+            "a": "bíceps",
+            "b": "tríceps",
+            "c": "pierna",
+            "d": "ns/nc"
+        },
+        "5": {
+            "a": "espalda",
+            "b": "hombro",
+            "c": "pierna",
+            "d": "ns/nc"
+        }
+    },
+   
+    {   "0":"pecho" ,
+        "1": "pierna",
+        "2": "espalda",
+        "3": "tríceps",
+        "4": "bíceps",
+        "5": "hombro"
+      
+    }],
+    [{
+        "0": "Seal row es un ejercicio en el que trabajamos...",
+        "1": "El RIR es:",
+        "2": "El RPE es:",
+        "3": "Press pallof es un ejercicio en el que trabajamos...",
+        "4": "Si tengo una serie de 10 repeticiones con un RIR 2",
+        "5": "Bíceps y tríceps son musculos:"
+      
+    },
+    {
+        "0": {
+            "a": "pecho",
+            "b": "espalda",
+            "c": "pierna",
+            "d": "ns/nc"
+        },
+        "1": {
+            "a": "Una forma de medir nuestra progresión",
+            "b": "Una técnica de alta intensidad (como las superseries, series descendentes etc)",
+            "c": "Una forma de medir la intensidad a la que hacemos una serie",
+            "d": "ns/nc"
+        },
+        "2": {
+            "a": "Una forma de medir nuestra progresión",
+            "b": "Una técnica de alta intensidad (como las superseries, series descendentes etc)",
+            "c": "Una forma de medir la intensidad a la que hacemos una serie",
+            "d": "ns/nc"
+        },
+        "3": {
+            "a": "pecho",
+            "b": "abdomen",
+            "c": "hombro",
+            "d": "ns/nc"
+        },
+        "4": {
+            "a": "Usaré una carga con la que podría hacer 12 repeticiones si fuera al fallo",
+            "b": "Usaré una carga con la que puedo hacer 10 repeticiones y haré 2 repeticiones mas con ayuda",
+            "c": "Usaré una carga con la que puedo hacer como máximo 10 repeticiones",
+            "d": "ns/nc"
+        },
+        "5": {
+            "a": "Agonistas",
+            "b": "Antagonistas",
+            "c": "Sinergistas",
+            "d": "ns/nc"
+        }
+     
+    },
+    {   "0":"espalda" ,
+        "1": "Una forma de medir la intensidad a la que hacemos una serie",
+        "2": "Una forma de medir la intensidad a la que hacemos una serie",
+        "3": "abdomen",
+        "4": "Usaré una carga con la que podría hacer 12 repeticiones si fuera al fallo",
+        "5": "Antagonistas"
+    }],
+
+    [{
+        "0": "El Hip Thrust es mejor que el peso muerto rumano para trabajar el glúteo porque...",
+        "1": "La abducción horizontal es un gesto del que se encarga principalmente...",
+        "2": "Si quiero desactivar el gastrocnemio cuando trabajo el gemelo...",
+        "3": "Las principales acciones musculares de los isquios son:",
+        "4": "El Haz Clavicular y el deltoides frontal tienen en común:",
+        "5": "El glúteo y los isquios tienen en común:"
+
+    },
+    {
+        "0": {
+            "a": "Cuando extendemos la cadera en el hip thrust la rodilla esta flexionada,lo que desactiva el femoral",
+            "b": "En el peso muerto rumano no se realiza una extension de cadera",
+            "c": "En el Hip thrust extendemos mas la cadera",
+            "d": "ns/nc"
+        },
+        "1": {
+            "a": "El deltoides lateral",
+            "b": "El deltoides posterior",
+            "c": "El pecho",
+            "d": "ns/nc"
+        },
+        "2": {
+            "a": "Trabajare ejercicios de gemelo tanto con la rodilla flexionada como extendida ya que el sóleo y el gastrocnemio realizan las mismas acciones musculares.",
+            "b": "Trabajaré ejercicios de gemelo con la rodilla flexionada ya que asi desactivo el gastrocnemio",
+            "c": "Trabajaré ejercicios de gemelo con la rodilla extendida ya que asi desactivo el gastrocnemio",
+            "d": "ns/nc"
+        },
+        "3": {
+            "a": "Flexión de rodilla y extensión de cadera",
+            "b": "Extensión de rodilla y extensión de cadera",
+            "c": "Extensión de rodilla y flexión de cadera",
+            "d": "ns/nc"
+        },
+        "4": {
+            "a": "Ambos se encargan de realizar la extensión de hombro",
+            "b": "Ambos se encargan de realizar la aducción horizontal",
+            "c": "Ambos se encargan de realizar la flexión de hombro",
+            "d": "ns/nc"
+        },
+        "5": {
+            "a": "Ambos se encargan de realizar la abducción de cadera",
+            "b": "Ambos se encargan de realizar la extensión de cadera",
+            "c": "Ambos se encargan de realizar la flexión de rodilla",
+            "d": "ns/nc"
+        }
+    },
+    
+    
+    {   "0": "Cuando extendemos la cadera en el hip thrust la rodilla esta flexionada,lo que desactiva el femoral" ,
+        "1": "El deltoides posterior" ,
+        "2": "Trabajaré ejercicios de gemelo con la rodilla flexionada ya que asi desactivo el gastrocnemio" ,
+        "3": "Flexión de rodilla y extensión de cadera" ,
+        "4": "Ambos se encargan de realizar la flexión de hombro" ,
+        "5": "Ambos se encargan de realizar la extensión de cadera" 
+        
+    }]
+]
