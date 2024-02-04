@@ -43832,7 +43832,7 @@ aw(){return new A.Us(new A.bk(null,t.__),B.j)}}
 A.Us.prototype={
 aW(){this.bh()},
 Z(a){var s,r=null,q=A.b([A.zy(r,B.Gk,r,new A.arz(this),r)],t.FV),p=t.bD
-p=A.ad(["Access-Control-Allow-Origin","https://firebasestorage.googleapis.com"],p,p)
+p=A.ad(["access-control-allow-origin","*","Access-Control-Allow-Headers","Content-Type, Authorization","Access-Control-Allow-Methods","*"],p,p)
 s=new A.abV()
 s.a="https://firebasestorage.googleapis.com/v0/b/entrenaapp2-12fbe.appspot.com/o/users%2FSSiMBxLynTeKsyXUMB92dGBkJZ03%2Fa8e2a150-c2e8-11ee-b53d-67716e6eaf24.pdf?alt=media&token=0ed0c337-10d6-43f4-b678-ef74615f2af4"
 s.b=p
